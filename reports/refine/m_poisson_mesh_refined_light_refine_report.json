@@ -1,0 +1,29 @@
+{
+  "level": "light",
+  "elapsed_sec": 10.096697092056274,
+  "params": {
+    "outer": 1.0,
+    "n_iters": 5.0,
+    "v_iters": 5.0,
+    "feature_angle": 25.0,
+    "disp_factor": 0.5,
+    "fill_iters": 6.0,
+    "max_disp": 0.01953125,
+    "step": 0.5,
+    "fill_boost": 3.0
+  },
+  "displacement": {
+    "mean": 0.002449239972095599,
+    "p95": 0.009293005054181545,
+    "max": 0.05859375001200149,
+    "dev_map_red_at": 0.009293005054181545
+  },
+  "planes": null,
+  "files": {
+    "mesh": "/home/montajab/Documents/pointCloud/montajab/e57/refine/m_poisson_mesh_refined_light.ply",
+    "deviation_map": "/home/montajab/Documents/pointCloud/montajab/e57/refine/m_poisson_mesh_refined_light_deviation.ply",
+    "simplified": null
+  },
+  "n_vertices": 778549,
+  "n_triangles": 1556950
+}
