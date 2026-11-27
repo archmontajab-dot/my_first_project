@@ -1,1 +1,1 @@
-python3 refine_mesh.py -i m_poisson_mesh.ply --level light,medium,strong
+python3 refine_mesh.py -i poisson_mesh.ply --level light,medium,strong
