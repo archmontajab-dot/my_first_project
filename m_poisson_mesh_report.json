@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "elapsed_normals_sec": 3.2116293907165527,
+  "elapsed_poisson_sec": 26.539708375930786,
+  "elapsed_total_sec": 48.269460916519165,
+  "n_vertices": 778549,
+  "n_triangles": 1556950,
+  "density_min": 5.195147514343262,
+  "density_max": 13.616557121276855,
+  "density_threshold": 9.552237701416015,
+  "n_filled_vertices": 77855,
+  "colors_transferred": true,
+  "output_path": "/home/montajab/Documents/pointCloud/montajab/e57/1/m_poisson_mesh.ply"
+}
