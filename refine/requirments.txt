@@ -1,0 +1,8 @@
+## Dependencies
+
+Powered by a massive, battle-tested stack of four core Python libraries:
+
+* **open3d:** Point cloud I/O, normal estimation, Poisson surface reconstruction, mesh handling, and visualization.
+* **numpy:** Fast numerical arrays, linear algebra, and geometry math across vertices, faces, and point clouds.
+* **scipy:** Spatial indexing (`cKDTree`) for fast nearest-neighbor matching and color transfer.
+* **psutil:** System memory monitoring to help keep runs safe and predictable.
